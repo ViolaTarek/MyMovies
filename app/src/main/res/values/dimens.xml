@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Font -->
+    <dimen name="font_1">9sp</dimen>
+    <dimen name="font_2">10sp</dimen>
+    <dimen name="font_3">12sp</dimen>
+    <dimen name="font_4">14sp</dimen>
+    <dimen name="font_5">16sp</dimen>
+    <dimen name="font_6">18sp</dimen>
+    <dimen name="font_7">22sp</dimen>
+    <dimen name="font_8">24sp</dimen>
+    <dimen name="font_9">26sp</dimen>
+    <dimen name="font_16">20sp</dimen>
+    <dimen name="font_17">84sp</dimen>
+
+
+    <!-- Margins -->
+    <dimen name="space_xxs">2dp</dimen>
+    <dimen name="space_xs">4dp</dimen>
+    <dimen name="space_xms">6dp</dimen>
+    <dimen name="space_s">8dp</dimen>
+    <dimen name="space_ms">10dp</dimen>
+    <dimen name="space_m">12dp</dimen>
+    <dimen name="space_l">16dp</dimen>
+    <dimen name="space_ml">20dp</dimen>
+    <dimen name="space_xl">24dp</dimen>
+    <dimen name="space_xxl">28dp</dimen>
+    <dimen name="space_xxxl">32dp</dimen>
+    <dimen name="space_xxxxl">42dp</dimen>
+    <dimen name="space_xxxxxl">64dp</dimen>
+
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">8sp</dimen>
+    <dimen name="bottom_navigation_icon_size" tools:override="true">28dp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">8sp</dimen>
+</resources>
