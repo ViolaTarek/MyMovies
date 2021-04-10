@@ -7,13 +7,9 @@
 ## Screenshots
 | Splash | Popular |  Top Rated |
 |:-:|:-:|:-:|
-| ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/1.jpeg?raw=true) | 
-![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/2.jpeg?raw=true) | 
-![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/3.jpeg?raw=true)|
+| ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/1.jpeg?raw=true) | ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/2.jpeg?raw=true) | ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/3.jpeg?raw=true)|
 | Favourites | Search |  Details |
-| ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/4.jpeg?raw=true) | 
-![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/5.jpeg?raw=true)| 
-![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/details.jpeg?raw=true) |
+| ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/4.jpeg?raw=true) | ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/5.jpeg?raw=true)| ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/details.jpeg?raw=true) |
 
 ## Features
 *   Discover the most popular and the most rated movies
