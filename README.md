@@ -4,11 +4,11 @@
 	Discover the most popular and top rated movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
 </h4>
 
-## ✨ Screenshots
-| Main Screen | Demo |  Favorites |
+## Screenshots
+| Splash | Popular |  Top Rated |
 |:-:|:-:|:-:|
 | ![Fist](ScreenShots/1.jpg?raw=true) | ![3](ScreenShots/2.jpg?raw=true) | ![3](ScreenShots/3.jpg?raw=true) |
-| Movie Details | Trailers |  Reviews |
+| Favourites | Search |  Details |
 | ![4](ScreenShots/4.jpg?raw=true) | ![5](ScreenShots/5.jpg?raw=true) | ![6](ScreenShots/details.jpg?raw=true) |
 
 ## Features
