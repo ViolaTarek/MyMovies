@@ -3,14 +3,6 @@
 <h4 align="center">
 	Discover the most popular and top rated movies playing. Movies data fetched using <a href="https://www.themoviedb.org/">themoviedb.org</a> API.
 </h4>
-<p align="center">
-	<a href="./LICENSE">
-		<img src="https://img.shields.io/github/license/mashape/apistatus.svg" />
-	</a>
-	<a class="badge-align" href="https://www.codacy.com/app/YassinAJDI/PopularMovies?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=YassinAJDI/PopularMovies&amp;utm_campaign=Badge_Grade">
-		<img src="https://api.codacy.com/project/badge/Grade/7ead85c7910f423d9ecea73041b8dbcf"/>
-	</a>
-</p>
 
 ## ✨ Screenshots
 | Main Screen | Demo |  Favorites |
