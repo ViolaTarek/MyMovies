@@ -7,9 +7,9 @@
 ## Screenshots
 | Splash | Popular |  Top Rated |
 |:-:|:-:|:-:|
-| ![Fist](ScreenShots/1.jpg?raw=true) | ![3](ScreenShots/2.jpg?raw=true) | ![3](ScreenShots/3.jpg?raw=true) |
+| ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/1.jpg?raw=true) | ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/2.jpg?raw=true) | ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/3.jpg?raw=true)|
 | Favourites | Search |  Details |
-| ![4](ScreenShots/4.jpg?raw=true) | ![5](ScreenShots/5.jpg?raw=true) | ![6](ScreenShots/details.jpg?raw=true) |
+| ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/4.jpg?raw=true) | ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/5.jpg?raw=true)| ![alt text](https://github.com/ViolaTarek/MyMovies/tree/master/ScreenShots/details.jpg?raw=true) |
 
 ## Features
 *   Discover the most popular and the most rated movies
